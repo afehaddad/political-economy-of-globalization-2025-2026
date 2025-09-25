@@ -11,7 +11,6 @@
 
 This repository gathers all documents related to the course *Political Economy of Globalization*:
 
-- [Official teaching sheet](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/blob/main/administratif/fiche-enseignement.md)  
 - [Detailed syllabus with program and bibliography](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/syllabus)  
 - [Required and additional readings](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/lectures)  
 - [Session slides](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/slides)  
