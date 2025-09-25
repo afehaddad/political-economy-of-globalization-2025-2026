@@ -6,16 +6,17 @@
 
 ---
 
+
 ## About this repository
 
 This repository gathers all documents related to the course *Political Economy of Globalization*:
 
-- Official teaching sheet → `administratif/fiche-enseignement.md`  
-- Detailed syllabus with program and bibliography → `syllabus/syllabus.md`  
-- Required and additional readings → `lectures/`  
-- Session slides → `slides/`  
-- Exercises → `exercices/`  
-- Complementary resources → `ressources/`  
+- [Official teaching sheet](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/blob/main/administratif/fiche-enseignement.md)  
+- [Detailed syllabus with program and bibliography](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/syllabus)  
+- [Required and additional readings](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/lectures)  
+- [Session slides](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/slides)  
+- [Exercises](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/exercices)  
+- [Complementary resources](https://github.com/afehaddad/political-economy-of-globalization-2025-2026/tree/main/ressources)  
 
 ---
 
@@ -53,7 +54,16 @@ This repository gathers all documents related to the course *Political Economy o
 
 ## Contacts
 
-- **Course instructor:** [ahmed-fouad.elhaddad@u-pec.fr](mailto:ahmed-fouad.elhaddad@u-pec.fr)  
-- **Administration:** [licences.iep@u-pec.fr](mailto:licences.iep@u-pec.fr)  
+- **Course instructor**: [ahmed-fouad.elhaddad@u-pec.fr](mailto:ahmed-fouad.elhaddad@u-pec.fr)  
+- **Course administrator**: [claire.achour@u-pec.fr](mailto:claire.achour@u-pec.fr)  
 
+---
+
+## License and Credit
+
+Science should be open, and this course builds on other open-licensed material.  
+Unless otherwise noted, all materials for this class are licensed under the   **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**.  
+
+Parts of the contents of this repository are inspired by many others who have publicly released their materials.  
+I try to always give credit, but if I forgot anyone, please feel free to reach out.  
 ---
