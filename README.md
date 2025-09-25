@@ -63,7 +63,6 @@ Unless otherwise specified, all materials contained in this repository are made 
 **[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)**.  
 This means that you are free to share and adapt the content, provided appropriate credit is given.  
 
-The preparation of this course has benefited from the work of many colleagues who have generously made their own teaching resources publicly accessible.  
-Every effort has been made to acknowledge these contributions. If you notice any omission, please do not hesitate to contact me so that proper credit can be given.  
+The preparation of this course has benefited from the work of many colleagues who have generously made their own teaching resources publicly accessible. Every effort has been made to acknowledge these contributions. If you notice any omission, please do not hesitate to contact me so that proper credit can be given.  
 
 ---
