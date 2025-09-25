@@ -1,4 +1,3 @@
-cat << "EOF" > README.md
 # Political Economy of Globalization (L3 – 2025–2026)
 
 **Instructor:** Ahmed Fouad EL HADDAD  
