@@ -39,7 +39,8 @@ This repository gathers all documents related to the course *Political Economy o
 | Week | Theme | Required Reading | Recommended Reading |
 |------|-------|-----------------|---------------------|
 | **1** | Introduction: What is Globalization? | Steger (2020), *Globalization: A Very Short Introduction*, Introduction | Berger (2000), “Globalization and Politics,” *Annual Review of Political Science* |
-| **2** | States, Markets, and Dependency | Polanyi (1944), *The Great Transformation*, Ch. 6–12 | Cardoso & Faletto (1979), *Dependency and Development in Latin America*, Introduction; Wallerstein (2011), *The Modern World-System I*, Introduction |
+| **2** | States, Markets, and Dependency | Polanyi (1944), *The Great Transformation*, Introduction | Hayek (1945), “The Use of Knowledge in Society,” American Economic Review
+
 | **3** | Varieties of Capitalism | Hall & Soskice (2013), *Varieties of Capitalism*, Introduction | Streeck (2014), *Buying Time*, Introduction |
 | **4** | International Regimes and Embedded Liberalism | Ruggie (1982), “Embedded Liberalism,” *International Organization* | Helleiner (2006), “Reinterpreting Bretton Woods,” *Development and Change* |
 | **5** | Global Governance and Crisis | Broome, Clegg & Rethel (2012), “Global Governance and the Politics of Crisis,” *Global Society* | Berten & Kranke (2022), “Anticipatory Global Governance,” *Global Society* |
