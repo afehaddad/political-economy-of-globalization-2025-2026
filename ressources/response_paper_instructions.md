@@ -53,10 +53,13 @@ The paper should be written in English or French, between 1,000 and 1,200 words,
 Use 12-point font and 1.5 line spacing. Include the word count at the end of the document.  
 Name your file as `ResponsePaper1_FirstnameLastname.pdf`.
 
-A digital version must be sent to my email with the subject line:
+You will receive the two readings on **Wednesday, November 5, 2025**.  
+The final paper must be submitted **on Wednesday, November 19, 2025, before 21:00**.
+
+A digital version must be sent to my email with the subject line:  
 `Response Paper 1 – Political Economy of Globalization – [Your Full Name]`
 
-A printed copy must also be placed in my office mailbox before the end of Week 7.
+A printed copy must also be placed in my office mailbox before the deadline.
 
 ---
 
