@@ -68,7 +68,7 @@ The purpose is not to “win” but to show that you can reason politically and 
 ## Practical Details
 
 ### Submission
-- The slides must be submitted **by Wednesday, December 17, 2025, before 21:00**.
+- The slides must be submitted **by Wednesday, December 7, 2025, before 21:00**.
 - One **digital version** must be emailed to me.
 - Email subject:  
   `Final Presentation – Political Economy of Globalization – Group [number]`
